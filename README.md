@@ -1,2 +1,12 @@
 # sistem-manajemen-travel-sab
-Sistem informasi berbasis web yang dirancang untuk mendukung pengelolaan layanan perjalanan ibadah pada PT Syifa Amanah Baitullah.
+Sistem ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi kebutuhan PT Syifa Amanah Baitullah dalam mengelola administrasi dan proses perjalanan ibadah jamaah secara menyeluruh. Aplikasi ini dirancang untuk membantu pihak perusahaan dalam mengelola data secara lebih efisien, mengurangi potensi kesalahan pencatatan, serta mempermudah proses monitoring dan pengawasan secara terstruktur
+
+## 🚀 Fitur Utama
+- 📦 Manajemen paket umroh
+- 🧑‍🤝‍🧑 Pendaftaran jamaah
+- 📅 Penjadwalan manasik
+- 💳 Integrasi pembayaran (Midtrans)
+- 📊 Dashboard admin
+
+- ## ⚙️ Cara Menjalankan Project
+1. Clone repository
