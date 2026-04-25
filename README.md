@@ -10,7 +10,7 @@ Sistem ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi kebu
 
 - ## ⚙️ Cara Menjalankan Project
 1. Clone repository
-   ```https://github.com/zahrnisaa/sistem-manajemen-travel-sab.git```
+   <pre>https://github.com/zahrnisaa/sistem-manajemen-travel-sab.git```</pre>
 3. Install Packages
-   ```npm install```
+   <pre>npm install</pre>
 5. 
