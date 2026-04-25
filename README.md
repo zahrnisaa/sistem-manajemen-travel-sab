@@ -1,5 +1,6 @@
 # sistem-manajemen-travel-sab
-Sistem ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi kebutuhan PT Syifa Amanah Baitullah dalam mengelola administrasi dan proses perjalanan ibadah jamaah secara menyeluruh. Aplikasi ini dirancang untuk membantu pihak perusahaan dalam mengelola data secara lebih efisien, mengurangi potensi kesalahan pencatatan, serta mempermudah proses monitoring dan pengawasan secara terstruktur
+
+Sistem ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi kebutuhan PT Syifa Amanah Baitullah dalam mengelola administrasi dan proses perjalanan ibadah jamaah secara menyeluruh. Aplikasi ini dirancang untuk membantu pihak perusahaan dalam mengelola data secara lebih efisien, mengurangi potensi kesalahan pencatatan, serta mempermudah proses monitoring dan pengawasan secara terstruktur.
 
 ## 🚀 Fitur Utama
 - 📦 Manajemen paket umroh
@@ -8,9 +9,23 @@ Sistem ini merupakan aplikasi berbasis web yang dikembangkan untuk memenuhi kebu
 - 💳 Integrasi pembayaran (Midtrans)
 - 📊 Dashboard admin
 
-- ## ⚙️ Cara Menjalankan Project
+## ⚙️ Cara Menjalankan Project
+
 1. Clone repository
-   <pre>https://github.com/zahrnisaa/sistem-manajemen-travel-sab.git```</pre>
-3. Install Packages
-   <pre>npm install</pre>
-5. 
+
+```bash
+git clone https://github.com/zahrnisaa/sistem-manajemen-travel-sab.git
+cd sistem-manajemen-travel-sab
+```
+
+2. Install Packages
+
+```bash
+npm install
+```
+
+3. Jalankan Project
+
+```bash
+npm run dev
+```
